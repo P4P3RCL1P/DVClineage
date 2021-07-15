@@ -1,0 +1,4 @@
+outs:
+- md5: a09a5e213ec7389214a2053006e40be7
+  size: 3690
+  path: graph.dot
